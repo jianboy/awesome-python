@@ -1284,7 +1284,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Web Frameworks
 
-*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
+*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/yoqi/awesome-python#restful-api).*
 
 * Synchronous
     * [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
@@ -1359,9 +1359,9 @@ Where to discover learning resources or new Python libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/yoqi/awesome-python/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/yoqi/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 - - -
 
