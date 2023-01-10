@@ -7,3 +7,4 @@ site/
 
 # PyCharm IDE
 .idea
+generated/

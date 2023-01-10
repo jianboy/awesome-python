@@ -1,2 +1,4 @@
-mkdocs==1.0.4
+mkdocs==1.4.2
 mkdocs-material==4.0.2
+
+# mkdocs[i18n]==1.16.0

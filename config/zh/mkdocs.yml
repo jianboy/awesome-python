@@ -4,6 +4,8 @@ site_description: A curated list of awesome Python frameworks, libraries and sof
 site_author: Vinta Chen
 repo_name: vinta/awesome-python
 repo_url: https://github.com/jianboy/awesome-python
+docs_dir: '../../docs/zh'
+site_dir: '../../generated/zh'
 theme:
   name: material
   palette:
@@ -19,6 +21,7 @@ extra:
       link: https://twitter.com/vinta
     - type: linkedin
       link: https://www.linkedin.com/in/vinta
+  # language selector
   alternate:
     - name: English
       link: /en/
@@ -27,12 +30,12 @@ extra:
       link: /zh/
       lang: zh
 # plugins:
-  # - search:
-  #   lang: en
+#   - search:
+#     lang: en
 google_analytics:
   - UA-510626-7
   - auto
 extra_css:
     - css/extra.css
 nav:
-  - "Life is short, you need Python.": "index.md"
+  - "人生短暂，我用Python.": "index.md"
