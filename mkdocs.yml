@@ -1,9 +1,9 @@
 site_name: Awesome Python
-site_url: https://jianboy.githb.io/awesome-python
+site_url: https://yoqi.githb.io/awesome-python
 site_description: A curated list of awesome Python frameworks, libraries and software
 site_author: Vinta Chen
-repo_name: vinta/awesome-python
-repo_url: https://github.com/jianboy/awesome-python
+repo_name: yoqi/awesome-python
+repo_url: https://github.com/yoqi/awesome-python
 theme:
   name: material
   palette:
@@ -18,7 +18,7 @@ extra:
     - type: twitter
       link: https://twitter.com/vinta
     - type: linkedin
-      link: https://www.linkedin.com/in/vinta
+      link: https://www.linkedin.com/in/smart-fish-8ba91519a/
   alternate:
     - name: English
       link: /en/
